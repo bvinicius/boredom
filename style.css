@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  transition: 5s;
+}
+
+.canvas {
+  width: 1650;
+  height: 800;
+}
